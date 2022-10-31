@@ -15,4 +15,4 @@ Instructions:
 
 Usage:
 
-./onelogin-get-events.py
+`./onelogin-get-events.py`
