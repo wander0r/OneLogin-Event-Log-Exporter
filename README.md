@@ -4,7 +4,7 @@ Overview
 
 Utilizing OneLogin's OpenAPI SDK, this is a wrapper script to pull event logs as a csv so that it can be ingested into a SIEM that doesn't support OneLogin or have direct integration.
 
-Reference: https://github.com/onelogin/onelogin-python-sdk
+Reference: https://github.com/onelogin/onelogin-python-sdk (onelogin.py)
 
 Original code, I just modified the last part of it: https://developers.onelogin.com/api-docs/1/samples/python/get-events
 
